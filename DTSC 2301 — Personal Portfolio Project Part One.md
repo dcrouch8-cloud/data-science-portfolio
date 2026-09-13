@@ -32,10 +32,23 @@ The graph shows that income, rent, and home values in Charlotte, NC all increase
 The graph shows that Charlotte's renter cost burden decreased between 2015 and 2020, but started increasing after 2020. By 2024, almost 50% of renter households were spending at least 30% of their income on rent. This shows that rent has become a growing financial burden for many Charlotte renters. The increase after 2020 may also suggest that housing affordability became a bigger issue in Charlotte in the years following the pandemic.
 
 ## Ethics and Limitations
+**Potential bias in the data.** Survey nonresponse, measurement error, and differences in who is captured by survey estimates can affect results. ACS estimates should therefore be interpreted as estimates rather than exact counts.
+**Total housing units are not the same as affordable housing units.** This project cannot determine how many units are subsidized, income-restricted, vacant, or affordable to a particular income group.
 
 ## Code and AI Transparency
+**Data source:** U.S. Census Bureau, American Community Survey 5-Year Estimates, accessed through the Census Data API.
 
-##  Code Review
+**AI disclosure:** Generative AI (ChatGPT, GPT-5.6 Luna) was used as a coding and writing assistant to help structure the beginner-level Python notebook, explain Census variables, and identify potential limitations.
 
 ## Key Academic References
+
+Brooks, M. M. (2022). The changing landscape of affordable housing in the rural and urban United States, 1990–2016. *Rural Sociology, 87*(2), 354–379. https://doi.org/10.1111/ruso.12427
+
+Colburn, G., Hess, C., Allen, R., & Crowder, K. (2024). The dynamics of housing cost burden among renters in the United States. *Journal of Urban Affairs, 47*(7), 2403–2422. https://doi.org/10.1080/07352166.2023.2288587
+
+Gold, S., et al. (2020). Does public housing reduce housing cost burden among low-income families with children? *Journal of Policy Analysis and Management, 39*(4), 1099–1120. https://doi.org/10.1002/pam.22218
+
+Mehdipanah, R. (2023). Without affordable, accessible, and adequate housing, health has no foundation. *The Milbank Quarterly, 101*(S1), 309–330. https://doi.org/10.1111/1468-0009.12626
+
+U.S. Census Bureau. (2024). *American Community Survey 5-year data*. https://www.census.gov/data/developers/data-sets/acs-5year/2024.html
 
