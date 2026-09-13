@@ -23,3 +23,5 @@ The next section answers three practical questions:
 1. Did population and housing supply grow at similar rates?
 2. Did household income keep pace with rent and home-value growth?
 3. Did renter cost burden improve or worsen over time?
+
+[Housing Units vs Population](img1)
