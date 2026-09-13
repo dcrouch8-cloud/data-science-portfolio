@@ -20,8 +20,8 @@ The analysis uses American Community Survey (ACS) 5-year estimates for the **Cit
 ## Exploratory Analysis
 The next section answers three practical questions:
 
-1. Did population and housing supply grow at similar rates?
-2. Did household income keep pace with rent and home-value growth?
-3. Did renter cost burden improve or worsen over time?
+1. Did household income keep pace with rent and home-value growth?
+2. Did renter cost burden improve or worsen over time?
+3. Did population and housing supply grow at similar rates?
 
-![Housing Units vs Population](img1.png)
+4. 
