@@ -24,4 +24,11 @@ The next section answers three practical questions:
 2. Did renter cost burden improve or worsen over time?
 3. Did population and housing supply grow at similar rates?
 
-4. 
+![Photo](img1.png)
+The graph shows that income, rent, and home values in Charlotte, NC all increased from 2015 to 2024. Home values had the biggest increase, while rent also increased significantly. Although median household income increased, it did not grow as quickly as rent and home values. This could suggest that housing became less affordable for Charlotte residents over time.
+
+![Photo](img2.png)
+The graph shows that Charlotte's renter cost burden decreased between 2015 and 2020, but started increasing after 2020. By 2024, almost 50% of renter households were spending at least 30% of their income on rent. This shows that rent has become a growing financial burden for many Charlotte renters. The increase after 2020 may also suggest that housing affordability became a bigger issue in Charlotte in the years following the pandemic.
+
+
+
