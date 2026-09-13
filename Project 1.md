@@ -14,7 +14,7 @@ The analysis uses American Community Survey (ACS) 5-year estimates for the **Cit
 | **Renter Cost Burden** | `DP04_0141PE + DP04_0142PE` | Percentage of renter-occupied units paying 30% or more of household income toward gross rent |
 
 ## Data Cleaning and Preparation
-- Rows with missing values in a required analysis variable are removed.
+- Rows with missing values are removed although when analysing the data I found that there was not any missing values.
 - The two renter cost-burden categories are combined because both represent households spending at least 30% of income on gross rent.
 
 ## Exploratory Analysis
