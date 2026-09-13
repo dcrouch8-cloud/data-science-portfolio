@@ -31,5 +31,11 @@ The graph shows that income, rent, and home values in Charlotte, NC all increase
 ![Photo](img2.png)
 The graph shows that Charlotte's renter cost burden decreased between 2015 and 2020, but started increasing after 2020. By 2024, almost 50% of renter households were spending at least 30% of their income on rent. This shows that rent has become a growing financial burden for many Charlotte renters. The increase after 2020 may also suggest that housing affordability became a bigger issue in Charlotte in the years following the pandemic.
 
+## Ethics and Limitations
 
+## Code and AI Transparency
+
+##  Code Review
+
+## Key Academic References
 
