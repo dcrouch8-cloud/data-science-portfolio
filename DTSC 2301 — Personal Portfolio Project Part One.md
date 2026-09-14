@@ -45,7 +45,7 @@ The graph shows that Charlotte's renter cost burden decreased between 2015 and 2
 **AI disclosure:** Generative AI (ChatGPT, GPT-5.6 Luna) was used as a coding and writing assistant to help structure the beginner-level Python notebook, explain Census variables, and identify potential limitations.
 
 ## Conclusion
-The key issue is not simply whether Charlotte has more housing units than it had in 2010. The more useful question is whether housing supply and household purchasing power are keeping pace with population growth. A city can add thousands of units while still becoming less affordable if rents and home values rise faster than incomes or if a large share of renters remain cost burdened.
+The key issue is not simply whether Charlotte has more housing units than it had in 2010. The more useful question is whether housing supply and household purchasing power are keeping pace with population growth. A city can add thousands of units while still becoming less affordable if rents and home values rise faster than incomes or if a large share of renters remain cost burdened. If population growth exceeds housing-unit growth, housing costs grow faster than household income, and renter cost burden remains high or increases, the evidence suggests that Charlotte's housing supply is under affordability pressure as the city grows. Charlotte is adding housing, but the available evidence suggests that growth in homes has not necessarily translated into adequate affordable housing for all households.
 
 
 ## Key Academic References
