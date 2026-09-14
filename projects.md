@@ -1,2 +1,2 @@
 ## Projects
-- [DTSC 2301 — Personal Portfolio Project Part One] (DTSC2301.md)
+- [DTSC 2301 — Charlotte, North Carolina: Population Growth and Affordable Housing EDA] (DTSC2301.md)
