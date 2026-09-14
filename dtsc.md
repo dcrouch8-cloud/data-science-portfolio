@@ -9,7 +9,7 @@ For this beginner project, **housing adequacy** is operationalized as whether th
 
 This analysis is descriptive. It cannot prove that population growth caused changes in housing costs, and it does not measure the number of income-restricted or subsidized affordable units.
 
-The analysis uses American Community Survey (ACS) 5-year estimates for the **City of Charlotte, North Carolina** from 2010–2024.
+The analysis uses American Community Survey (ACS) 5-year estimates for the **City of Charlotte, North Carolina**.
 
 | Variable | ACS Variable | Definition |
 |:---|:---:|:---|
@@ -47,7 +47,7 @@ The graph shows that Charlotte's renter cost burden decreased between 2015 and 2
 
  **Affordability is more complicated than median values.** Median rent and median home value do not show whether low-income households can afford available units.
 
-##  <p>Jypter Notebook can be found <a href="Charlotte_Affordable_Housing_EDA.ipynb">here</a>.</p>
+##  Jypter Notebook can be found <a href="Charlotte_Affordable_Housing_EDA.ipynb">here</a>.
 
 ## Code and AI Transparency
 **Data source:** U.S. Census Bureau, American Community Survey 5-Year Estimates, accessed through the Census Data API.
