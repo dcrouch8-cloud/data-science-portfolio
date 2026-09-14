@@ -1,6 +1,14 @@
 ## Research Question
 ## Is Charlotte, North Carolina able to address adequate affordable housing needs in response to population and economic growth?
 
+## Problem Definition
+
+Charlotte has experienced substantial population and economic growth. Growth can increase demand for housing, while changes in rents, home values, and household incomes affect whether that housing is affordable. This project asks whether housing supply and affordability indicators appear to be keeping pace with population and economic growth.
+
+For this beginner project, **housing adequacy** is operationalized as whether the number of housing units is growing at least as quickly as population and whether affordability indicators are stable or improving. **Affordability** is examined using median household income, median gross rent, median owner-occupied home value, and the share of renter households spending at least 30% of income on gross rent.
+
+This analysis is descriptive. It cannot prove that population growth caused changes in housing costs, and it does not measure the number of income-restricted or subsidized affordable units.
+
 The analysis uses American Community Survey (ACS) 5-year estimates for the **City of Charlotte, North Carolina** from 2010–2024.
 
 | Variable | ACS Variable | Definition |
