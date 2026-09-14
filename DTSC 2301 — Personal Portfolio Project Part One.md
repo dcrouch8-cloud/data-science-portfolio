@@ -33,7 +33,11 @@ The graph shows that Charlotte's renter cost burden decreased between 2015 and 2
 
 ## Ethics and Limitations
 **Potential bias in the data.** Survey nonresponse, measurement error, and differences in who is captured by survey estimates can affect results. ACS estimates should therefore be interpreted as estimates rather than exact counts.
+
 **Total housing units are not the same as affordable housing units.** This project cannot determine how many units are subsidized, income-restricted, vacant, or affordable to a particular income group.
+
+ **Affordability is more complicated than median values.** Median rent and median home value do not show whether low-income households can afford available units.
+
 
 ## Code and AI Transparency
 **Data source:** U.S. Census Bureau, American Community Survey 5-Year Estimates, accessed through the Census Data API.
