@@ -24,6 +24,7 @@ The analysis uses American Community Survey (ACS) 5-year estimates for the **Cit
 ## Data Cleaning and Preparation
 - Rows with missing values are removed although when analysing the data I found that there was not any missing values.
 - The two renter cost-burden categories are combined because both represent households spending at least 30% of income on gross rent.
+- Unable to load data from 2010-2014, I kept receiving 400 Client Error and made the decision to use data from 2016-2024.
 
 ## Exploratory Analysis
 The next section answers three practical questions:
@@ -46,7 +47,7 @@ The graph shows that Charlotte's renter cost burden decreased between 2015 and 2
 
  **Affordability is more complicated than median values.** Median rent and median home value do not show whether low-income households can afford available units.
 
-##  <p>Jypter Notebook can be found <a href="project1.html">here</a>.</p>
+##  <p>Jypter Notebook can be found <a href="Charlotte_Affordable_Housing_EDA.ipynb">here</a>.</p>
 
 ## Code and AI Transparency
 **Data source:** U.S. Census Bureau, American Community Survey 5-Year Estimates, accessed through the Census Data API.
