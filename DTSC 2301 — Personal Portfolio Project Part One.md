@@ -46,6 +46,7 @@ The graph shows that Charlotte's renter cost burden decreased between 2015 and 2
 
  **Affordability is more complicated than median values.** Median rent and median home value do not show whether low-income households can afford available units.
 
+##  <p>Jypter Notebook can be found <a href="project1.html">here</a>.</p>
 
 ## Code and AI Transparency
 **Data source:** U.S. Census Bureau, American Community Survey 5-Year Estimates, accessed through the Census Data API.
