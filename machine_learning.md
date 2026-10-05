@@ -164,8 +164,6 @@ However, feature importance does **not** demonstrate causation. For example, the
 
 ## Conclusion
 
-## Conclusion
-
 This project investigated whether nutritional characteristics of foods could be used to predict iron content and help identify foods that may contribute to maximizing dietary iron intake.
 
 Among the models evaluated, Random Forest Regression produced the strongest predictive performance, with an MAE of approximately 0.45 mg, an RMSE of 1.40 mg, and an R² of 0.43. These results show that nutritional characteristics can provide useful information for predicting food iron content, although they do not completely explain the differences in iron levels between foods.
