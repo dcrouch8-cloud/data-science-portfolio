@@ -67,6 +67,12 @@ The distribution of iron was also explored, along with correlations between iron
 
 The following graph shows the ten adult foods with the highest iron content in the dataset.
 
+### Adult Food Selection
+
+Infant, baby, and toddler foods were excluded from the analysis because this project focuses on dietary choices that are relevant to adults. Foods specifically formulated for infants and young children may have different nutritional compositions and fortification practices than foods typically consumed by adults. Including these foods could therefore make the results less representative of the population this project is intended to explore.
+
+To keep the analysis aligned with the research question, food descriptions containing terms such as "baby," "toddler," or "infant" were removed before identifying the highest-iron foods and preparing the data for machine learning.
+
 ![Top 10 Adult Foods Highest in Iron](G2P2.png)
 
 The results show that several cereals were among the foods with the highest iron content in the dataset. The highest value was found for multigrain O's cereal, followed by several other cereal varieties.
