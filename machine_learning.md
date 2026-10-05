@@ -1,8 +1,3 @@
----
-layout: default
-title: Iron Nutrition Machine Learning Project
----
-
 # Optimizing Dietary Iron Intake Using Machine Learning
 
 ## Problem Definition
@@ -22,8 +17,6 @@ This project uses **regression** because the target variable, iron content, is n
 The target variable is **Iron (mg)**.
 
 ---
-
-## Background and Context
 
 ## Background and Context
 
