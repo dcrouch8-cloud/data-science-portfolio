@@ -206,11 +206,19 @@ The complete Jupyter Notebook containing the data preparation, exploration, mach
 
 ## References
 
+Ding, X., Liu, Y., Zheng, L., Chang, Q., Chen, X., & Xi, C. (2024). Effect of different iron ratios on interaction and thermodynamic stability of bound whey protein isolate. *Food Research International, 182*, 114198. https://doi.org/10.1016/j.foodres.2024.114198
+
 Kumar, A., Sharma, E., Marley, A., Samaan, M. A., & Brookes, M. J. (2022). Iron deficiency anaemia: Pathophysiology, assessment, practical management. *BMJ Open Gastroenterology, 9*(1), e000759.
 
 Rabinowitz, J. (2024, June 12). *Why is iron deficiency more common in Black people?* Smart Eats.
 
-Ding, X., Liu, Y., Zheng, L., Chang, Q., Chen, X., & Xi, C. (2024). Effect of different iron ratios on interaction and thermodynamic stability of bound whey protein isolate. *Food Research International, 182*, 114198. https://doi.org/10.1016/j.foodres.2024.114198
+U.S. Department of Agriculture, Agricultural Research Service. (2024). *USDA Food and Nutrient Database for Dietary Studies 2021–2023*. Food Surveys Research Group.
+
+
+
+
+
+
 
 ---
 
